@@ -12,7 +12,6 @@ import javax.swing.JMenuItem;
 import javax.swing.ImageIcon;
 
 public class StartFrame extends JFrame {
-
 	private JPanel contentPane;
 
 	/**
